@@ -323,20 +323,7 @@
             "url":"https://gamaverse.com/c/f/g/tomb-of-the-mask-neon/?gd_sdk_referrer_url=https://gamaverse.com/tomb-of-the-mask-neon-game/"},
         
         
-        {
-            "name":"Wheeler Truck Parking",
-            "videourl":"",
-            "imgurl":"assets/images/Games/WheelerTruckParking.jpg",
-            "des":"18 Wheeler Truck Parking is a top-down truck parking game with 10 levels to complete and some extra trucks to unlock.",
-            "inst":"",
-            "rating":3,
-            "scrs":[
-                "assets/images/GamesScreens/WheelerTruckParking/screen1.png",
-                "assets/images/GamesScreens/WheelerTruckParking/screen2.png",
-                "assets/images/GamesScreens/WheelerTruckParking/screen3.png",
-                "assets/images/GamesScreens/WheelerTruckParking/screen4.png"
-            ],
-            "url":"https://html5.gamedistribution.com/rvvASMiM/501659cc749544b98c4530f8ebbd1d63/?gd_sdk_referrer_url=https://gamaverse.com/18-wheeler-truck-parking-game/"},
+        
             {
                 "name":"SUM BLOCKS",
                 "imgurl":"assets/images/Games/sumblocks.png",
