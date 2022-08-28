@@ -368,29 +368,9 @@
                 "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/sum-stacks/index.html"}, 
     
     
-                {
-                 "name":"STEP SPOTS",
-                "imgurl":"assets/images/Games/step-spots.jpg",
-                "des":"",
-                "inst":"",
-                "scrs":[
-                    "assets/images/Games/step-spots.jpg"
-                ],
-                "rating":5,
-                "url":"https://18940.cache.armorgames.com/files/games/step-spots-18940/index.html?key=y8&value=default"}, 
+                
     
-    
-                {
-                 "name":"TIC TAC TOE",
-                "imgurl":"assets/images/Games/tic-tac-toe.jpg",
-                "des":"",
-                "inst":"",
-                "scrs":[
-                    "assets/images/Games/tic-tac-toe.jpg"
-                ],
-                "rating":4,
-                "url":"https://html5.gamedistribution.com/rvvASMiM/128ff53707c94714a6ab67b24d77cdab/?timestamp=1661637692&countryCode=fr&siteid=88&channelid=1&siteLocale=fr&locale=fr&gd_sdk_referrer_url=https%3A%2F%2Fwww.jeux.fr%2Fjeu%2Ftic-tac-toe-paper&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy5qZXV4LmZyL2pldS90aWMtdGFjLXRvZS1wYXBlciIsInBhcmVudERvbWFpbiI6ImpldXguZnIiLCJ0b3BEb21haW4iOiJqZXV4LmZyIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNCJ9"}, 
-    
+               
                 
     
                 
