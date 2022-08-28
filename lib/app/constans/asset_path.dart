@@ -17,14 +17,14 @@ class ImageRaster {
   static const raymandLegend4 = "$_path/rayman legends/rl-4.jpg";
   static const raymandLegend5 = "$_path/rayman legends/rl-5.jpg";
 
-  static const logoGiaDeveloper = "$_path/logo-gia-developer.png";
+  static const logoGiaDeveloper = "$_path/Icon.png";
   static const phone3d = "$_path/phone-3d.png";
 }
 
 class ImageVector {
   static const _path = "assets/images/vector";
 
-  static const backgroundLiquid = "$_path/background_liquid.svg";
+  static const backgroundLiquid = "assets/images/raster/ouazSplashscreen.png";
 }
 
 class ImageAnimation {

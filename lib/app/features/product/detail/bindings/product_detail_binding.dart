@@ -6,3 +6,10 @@ class ProductDetailBinding extends Bindings {
     Get.lazyPut(() => ProductDetailController());
   }
 }
+
+class GameViewBinding extends Bindings {
+  @override
+  void dependencies() {
+    Get.lazyPut(() => GameViewController());
+  }
+}

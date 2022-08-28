@@ -5,7 +5,7 @@ class RatingIcon extends StatelessWidget {
       : assert(rating >= 0 && rating <= 5),
         super(key: key);
 
-  final double rating;
+  final int rating;
   final double size;
 
   @override

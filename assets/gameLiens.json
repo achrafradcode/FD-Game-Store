@@ -1,0 +1,408 @@
+{
+    "games":[
+        
+        {
+            "name":"Weave",
+            "videourl":"assets/images/Games/Weave.mp4",
+            "imgurl":"assets/images/Games/Weave.jpg",
+            "des":"Weave is a free puzzle game that requires patience and thought. This online game has a calming brown and tan background and displays a turquoise string pinned to a board. Your objective is to manipulate the string to look exactly like the one in the display. Try to complete this in as little moves as possible to gain all 3 stars. Action and shooter games can be fun, but sometimes you just want to sit down and use your brain with an idle game like this one. Even though it’s simple, you won’t be bored! There are 60 puzzles waiting to be solved by you! The pins you’ll find on the board are permanent but you can create new pins by dragging the string. Use the holes on the display and your own board to see exactly where each point of the shape you’re trying to recreate is. Play through all the levels and then see where you rank in the leaderboards. Play again until you win all 3 stars and are at the top of the ranks!",
+            "inst":"To play this free puzzle game, use your mouse or finger to click and drag the string. Match it to the display. Click on the leaderboard icon in the upper-righthand corner to view your rank. ",
+            "scrs":[
+                "assets/images/GamesScreens/Weave/screen1.png",
+                "assets/images/GamesScreens/Weave/screen2.png",
+                "assets/images/GamesScreens/Weave/screen3.png",
+                "assets/images/GamesScreens/Weave/screen4.png"
+            ],
+            "rating":4,
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/weave/index.html"},
+        
+        {
+            "name":"Cross That Road",
+            "videourl":"assets/images/Games/CrossThatRoad.mp4",
+            "imgurl":"assets/images/Games/CrossRoad.jpg",
+            "des":"Why did the chicken cross the road? Help your chicken try to get to the other side by avoiding all of the car traffic on the roads. The further you move the better your high score will be. Keep walking until you get to the safe zones, then you can take a breather as you get ready for more car avoiding fun.",
+            "inst":"Touch the arrows or use the arrow keys to move up and down",
+            "rating":5,
+            "scrs":[
+                "assets/images/GamesScreens/CrossThatRoad/screen1.png",
+                "assets/images/GamesScreens/CrossThatRoad/screen2.png",
+                "assets/images/GamesScreens/CrossThatRoad/screen3.png",
+                "assets/images/GamesScreens/CrossThatRoad/screen4.png",
+                "assets/images/GamesScreens/CrossThatRoad/screen5.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/cross-that-road/index.html"},
+        {
+            "name":"Tower Boxer",
+            "videourl":"assets/images/Games/TowerBox.mp4",
+            "imgurl":"assets/images/Games/TowerBox.jpg",
+            "des":"Tower Boxer is an action game where you get to destroy a building. This tall building needs to be demolished, and it is your job to bring it down. Careful not to hit your head on any of the ledges though! Each game is timed, but you earn more seconds the faster you go. Switch out your character with another professional demolisher. Who is certified to demolish buildings? You can be a ninja, a space robot, a wolverine mutant, or a pro-boxer. No matter the building, these professionals can get the job done. Your score is automatically submitted, and you can view both your recent and best score at the end of a game. Play, again and again, to try to beat your best score every time while you rise up the leaderboards.",
+            "inst":"To play this action game, click on the right or left side of the screen to switch over your character to the other side of the building. Alternatively, if you are on a computer, you can use the arrow keys from your keyboard. Do not run into a ledge or you lose the game. Switch quickly so you also do not run out of time. The red bar at the top of the game lets you know how much time you have left. ",
+            "rating":5,
+            "scrs":[
+                "assets/images/GamesScreens/TowerBoxer/screen1.png",
+                "assets/images/GamesScreens/TowerBoxer/screen2.png",
+                "assets/images/GamesScreens/TowerBoxer/screen3.png",
+                "assets/images/GamesScreens/TowerBoxer/screen4.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/tower-boxer/index.html"},
+        {
+            "name":"Factory Rush",
+            "videourl":"assets/images/Games/FactoryRush.mp4",
+            "imgurl":"assets/images/Games/FactoryRush.jpg",
+            "des":"Factory Rush is a free clicker game. This is a classic game of pointing, clicking, and dragging the appropriate boxes to the appropriate shapes falling off of the conveyor belts. It starts off simple enough but then the rush kicks in and when the rush kicks in it really kicks in. You'll be forced to sort and organize a variety of different gears into their matching boxes and then ship them off. Your score, your reputation, your very life itself hinges and hangs entirely on your ability to put things in the appropriate boxes and get those boxes to slide down the conveyor belt. As the game goes on you'll be organizing and sorting more than one box at a time, anywhere up to three or even four boxes sorting up to five different shapes with everything changing all of the time. Whether its picture of the shape on the box, the lane the box is in, or the speed of the parts as they roll out, you can be assured that the only constant in this game is changing, and speed, and the fact that you work in a factory because the screen is that of a factory and it never changes.",
+            "inst":"On your mobile device please use your finger to point, tap, and drag the boxes or your mouse to point, click, and drag. ",
+            "rating":2,
+            "scrs":[
+                "assets/images/GamesScreens/FactoryRush/screen1.png",
+                "assets/images/GamesScreens/FactoryRush/screen2.png",
+                "assets/images/GamesScreens/FactoryRush/screen3.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/factory-rush/index.html"},
+        
+        {
+            "name":"Parking Tight",
+            "videourl":"assets/images/Games/ParkinTighte.mp4",
+            "imgurl":"assets/images/Games/ParkingTightt.jpg",
+            "des":"Parking Tight is a free puzzle game. In the modern world, the only thing that truly matters is space and time. Specifically, the space to park your cool vehicle and hopefully the time to do it. Sometimes in order to park properly things are going to get a little tight. Parking Tight is a spatial puzzle where you compete against a lack of space and irregularly shaped sectors in order to fit your multiple cars into the proper spaces. This is a puzzle game where there is only one specific answer for each level. In order to finish the level and move on you'll have to accurately park the cars. Finding the answer is hard and it may take a fair amount of trial and error. Timing is important because obviously being faster at something is basically the same as being better at it. So, we wish you the best of luck in this skill-based puzzle game where space is limited and time is always running out.",
+            "inst":"On your mobile device please use your finger to point, tap, and drag the cars into their proper positions. ",
+            "rating":4,
+            "scrs":[
+                "assets/images/GamesScreens/ParkingTight/screen1.png",
+                "assets/images/GamesScreens/ParkingTight/screen2.png",
+                "assets/images/GamesScreens/ParkingTight/screen3.png",
+                "assets/images/GamesScreens/ParkingTight/screen4.png",
+                "assets/images/GamesScreens/ParkingTight/screen5.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/parking-tight/index.html"},
+        
+        {
+            "name":"Sand Ball",
+            "videourl":"assets/images/Games/SandBall.mp4",
+            "imgurl":"assets/images/Games/SandBall.jpg",
+            "des":"Make paths and collect as many balls as you can. ",
+            "inst":"",
+            "rating":4,
+            "scrs":[
+                "assets/images/GamesScreens/SandBall/screen1.png",
+                "assets/images/GamesScreens/SandBall/screen2.png",
+                "assets/images/GamesScreens/SandBall/screen3.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/sand-ball/index.html"},
+        {
+            "name":"Space Knife",
+            "videourl":"assets/images/Games/SpaceKnife.mp4",
+            "imgurl":"assets/images/Games/SpaceKnife.jpg",
+            "des":"Space Knife is a free endless runner game. In Space, no one can hear you knife. It is as true now as it ever was. And now is the time. The time is now. Here we go. Space Knife. A knife in space. You have been training for this day for years. Your Katana has been let loose in space and you must use the power of your mind to control it. Smash through bubbles, slice up cubes, and let no obstacle stand in your way as you stab, slash, and smash your way through to the center of the universe. This is an endless cutter game where you must cut a swath through a never-ending series of obstacles. Every obstacle, every smash, and every slash is a power move that brings you closer to victory. Up your points and down your enemies as you prove to the whole world that you are the mightiest sword in all the universe. Let no space cubes or galaxy bubbles stand in your way as you cut your way to victory. You are the ultimate knife handler and now you are in space OK. Let's go.",
+            "inst":"On your mobile device please use your finger to tap and control the Space Knife as it slashes through all of the obstacles. ",
+            "rating":3,
+            "scrs":[
+                "assets/images/GamesScreens/SpaceKnife/screen1.png",
+                "assets/images/GamesScreens/SpaceKnife/screen2.png",
+                "assets/images/GamesScreens/SpaceKnife/screen3.png",
+                "assets/images/GamesScreens/SpaceKnife/screen4.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/space-knife/index.html"},
+        {
+            "name":"Mr Slice",
+            "videourl":"assets/images/Games/Mrslice.mp4",
+            "imgurl":"assets/images/Games/Mrslice.jpg",
+            "des":"Montez et descendez à travers ce jeu de puzzle créatif situé dans un pays des merveilles de l'hiver ! Relevez-vous et tombez pour collecter des briques colorées et marquer des points. Si vous essayez de vous relever peu de temps après votre chute, vous pouvez balayer vos échasses sur de nombreuses briques pour un ramassage monstre. Ne vous faites pas écraser par des objets en mouvement ou c'est la fin du jeu !",
+            "inst":"",
+            "rating":2,
+            "scrs":[
+                "assets/images/GamesScreens/MrSlice/screen1.png",
+                "assets/images/GamesScreens/MrSlice/screen2.png",
+                "assets/images/GamesScreens/MrSlice/screen3.png",
+                "assets/images/GamesScreens/MrSlice/screen4.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/mr-slice/index.html"},
+        {
+            "name":"Destroy Pixel",
+            "videourl":"assets/images/Games/Destroypixel.mp4",
+            "imgurl":"assets/images/Games/Destroypixel.jpg",
+            "des":"Destroy Pixel is a free mobile game.",
+            "inst":"",
+            "rating":2,
+            "scrs":[
+                "assets/images/GamesScreens/DestroyPixel/screen1.png",
+                "assets/images/GamesScreens/DestroyPixel/screen2.png",
+                "assets/images/GamesScreens/DestroyPixel/screen3.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/destroy-pixel/index.html"},
+        {
+            "name":"The Endless Tap",
+            "videourl":"assets/images/Games/Theendlesstape.mp4",
+            "imgurl":"assets/images/Games/Theendlesstap.jpg",
+            "des":"The Endless Tap is a free clicker game. You've squeaked your sneaks across basketball courts all over the world. You have sunk 3-pointers with your eyes closed and made half-court baskets that electrified the world. But that was then, this is now. You've seen it all. You've done it all. And now, the world of competitive basketball bores you, you thirst for greater challenges in a new arena. Enter The Endless Tap. A game that takes everything you love about basketball and puts it into the top-down world of Endless clickers and tappers. This is the game that will finally let you challenge yourself by dunking over and over again as many times as you can. Hey, do you think ahead? Do you know how to navigate the labyrinthian world of competitive basketball tappers? This is your chance to be the queen's gambit of the basketball tapper world. To show your haters that you are like Micheal Jordan and will be successful in not just one sport but multiple sports. The world is your onion, gamer-friend, and you have everything it takes to bring it to its knees by succeeding at tapping your way through basketball stuff.",
+            "inst":"Use your finger to tap or mouse to click in order to keep the ball up and get it in the net. ",
+            "rating":5,
+            "scrs":[
+                "assets/images/GamesScreens/TheEndlessTap/screen1.png",
+                "assets/images/GamesScreens/TheEndlessTap/screen2.png",
+                "assets/images/GamesScreens/TheEndlessTap/screen3.png",
+                "assets/images/GamesScreens/TheEndlessTap/screen4.png",
+                "assets/images/GamesScreens/TheEndlessTap/screen5.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/the-endless-tap/index.html"},
+        {
+            "name":"Traffic Controller",
+            "videourl":"assets/images/Games/trafficcontrole.mp4",
+            "imgurl":"assets/images/Games/Trafficcontrole.jpg",
+            "des":"Traffic Control is a traffic management game in busy intersections to ensure the cars safely pass and to avoid traffic accidents!",
+            "inst":"Press to speed up the cars.",
+            "rating":2,
+            "scrs":[
+                "assets/images/GamesScreens/TrafficController/screen1.png",
+                "assets/images/GamesScreens/TrafficController/screen2.png",
+                "assets/images/GamesScreens/TrafficController/screen3.png",
+                "assets/images/GamesScreens/TrafficController/screen4.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/traffic-control/index.html"},
+        
+        {
+            "name":"Cube Killer",
+            "videourl":"assets/images/Games/Cubekiller.mp4",
+            "imgurl":"assets/images/Games/Cubekiller.jpg",
+            "des":"Cube Killer is a free mobile game.",
+            "inst":"",
+            "rating":4,
+            "scrs":[
+                "assets/images/GamesScreens/CubeKiller/screen1.png",
+                "assets/images/GamesScreens/CubeKiller/screen2.png",
+                "assets/images/GamesScreens/CubeKiller/screen3.png",
+                "assets/images/GamesScreens/CubeKiller/screen4.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/cube-killer/index.html"},
+        {
+            "name":"Snow Rally",
+            "videourl":"assets/images/Games/Snowrally .mp4",
+            "imgurl":"assets/images/Games/Snowrally.jpg",
+            "des":"Snow Rally is a free racing game. Move fast and move often. In Snow Rally, you're a 4x4 jeep trecking their way across the northwest. Hop in and slam on the accelerator as you navigate the hills and valleys of this sprawling racing game. Collect coins in order to buy upgrades for your offroader so you can fully optimize your ability to trek and explore. Tame the wild with the sheer will power of your steely nerved determination as you jump, swerve, and flip your way to victory. Earn extra points by flipping, spinning and jamming your way into the future. You may be stuck behind the wheel of a 4x4 but that doesn't mean you can't explore the world.",
+            "inst":"",
+            "rating":4,
+            "scrs":[
+                "assets/images/GamesScreens/SnowRally/screen1.png",
+                "assets/images/GamesScreens/SnowRally/screen2.png",
+                "assets/images/GamesScreens/SnowRally/screen3.png",
+                "assets/images/GamesScreens/SnowRally/screen4.png",
+                "assets/images/GamesScreens/SnowRally/screen5.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/snow-rally/index.html"},
+       
+        
+        {
+            "name":"Twist Maze",
+            "videourl":"assets/images/Games/twistmaze.mp4",
+            "imgurl":"assets/images/Games/twistmaze.jpg",
+            "des":"Twist Maze is a free mobile game.",
+            "inst":"",
+            "rating":2,
+            "scrs":[
+                "assets/images/GamesScreens/TwistMaze/screen1.png",
+                "assets/images/GamesScreens/TwistMaze/screen2.png",
+                "assets/images/GamesScreens/TwistMaze/screen3.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/twist-maze/index.html"},
+       
+        {
+            "name":"Rotate",
+            "videourl":"assets/images/Games/rotate.mp4",
+            "imgurl":"assets/images/Games/rotate.jpg",
+            "des":"Rotate is a free idle game. This is the story of a square who spun his way from one side of a spike-covered circle to the other and lived to tell the story. Rotate is a unique take on idle games. In Rotate you'll be in charge of the fate of a single square. The square is trapped within circle and that circle is filled with spikes. AAll you have to do is navigate and guide the square within the circle so that it intersects with floating green squares. These floating green squares are the real prize for this is how you score. You can stay alive for as long as you want within the circle, but it's all about the squares if you wanna win. This is a game of concentration and precision. You must know when to spin the circle so you can rebound the square way from the spikes and into the victory cubes. It's an absolute blast once you get the hang of it but also a terribly difficult game to master. Simple rules, elegant interface, and minimal graphics. The kind of thing you can learn in a minute and play for a lifetime. This is the beauty of rotate, this is the tragedy of rotate. ",
+            "inst":"Press down anywhere outside the circle in order to activate the cyclotron. Once the circle is rotating you'll bounce and deflect the square within to avoid spikes and collect cubes. ",
+            "rating":4,
+            "scrs":[
+                "assets/images/GamesScreens/Rotate/screen1.png",
+                "assets/images/GamesScreens/Rotate/screen2.png",
+                "assets/images/GamesScreens/Rotate/screen3.png",
+                "assets/images/GamesScreens/Rotate/screen4.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/rotate/index.html"},
+        {
+            "name":"Flip Cube",
+            "videourl":"assets/images/Games/flipCube.mp4",
+            "imgurl":"assets/images/Games/flipCube.jpg",
+            "des":"Flip Cube is a fast-thinking online game with a clean and simple animation. The objective is easy: don’t hit a spike. As your cube runs up your screen, spikes will appear on either side of the gray vertical line. Sometimes the game starts fast or you have many spikes to avoid, there’s no telling how difficult each game will start. The clean bright blue background creates a contrast against the orange spikes for you to easily decipher which side the cube should be on. Sometimes you don’t have time for tutorials and this is one of those online games with an easy to understand concept. Just hit play, and start playing trough trial and error. It’s an instant game that’s instant fun.",
+            "inst":"To play this puzzle game, click on the screen using your finger whenever you need to swap the cube to the other side. If you hit a spike, you lost that session. Your best and most recent score will show up on the screen right after you lose. You can click on the leaderboards to see how well your best ranks against other game runners. Click on the settings to adjust your sound or look at a quick tutorial. ",
+            "rating":3,
+            "scrs":[
+                "assets/images/GamesScreens/FlipCube/screen1.png",
+                "assets/images/GamesScreens/FlipCube/screen2.png",
+                "assets/images/GamesScreens/FlipCube/screen3.png",
+                "assets/images/GamesScreens/FlipCube/screen4.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/flip-cube/index.html"},
+        {
+            "name":"Fruit Maniac",
+            "videourl":"assets/images/Games/fruitManiac.mp4",
+            "imgurl":"assets/images/Games/fruitManiac.jpg",
+            "des":"Fruit Maniac is a free action game. You've sliced fruit before, you've diced fruit before, you've even spliced fruit before. But here, now in this crazy game, we need you to put your radical powers to another use: Drawing. It doesn't take a genius to slash haphazardly at a piece of falling fruit, any fool with a blade can whip and stab at the air. It takes true mastery of the blade to draw imaginary lines in the air which creates a ramp that falling fruit can slide down in order to fall in a bowl. That is your mission. You are here to help the fruit make their way into the bowl so that they don't fall onto the floor and bruise.Move fast. Anticipate the path of the fruit. Swipe once to create the slide and make your way to the next level. Dominate the competition and slide your way to the top of the leaderboard. Leave no fruit behind. You are a maniac. A fruit maniac and all the world is yours for the slicing.",
+            "inst":"Use your finger to slice at the screen and create a ramp that will gently guide the fruit into the bowl. ",
+            "rating":2,
+            "scrs":[
+                "assets/images/GamesScreens/FruitManiac/screen1.png",
+                "assets/images/GamesScreens/FruitManiac/screen2.png",
+                "assets/images/GamesScreens/FruitManiac/screen3.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/fruit-maniac/index.html"},
+        {
+            "name":"Merge Jawels",
+            "videourl":"assets/images/Games/mergeJewels.mp4",
+            "imgurl":"assets/images/Games/mergeJewels.jpg",
+            "des":"Merge Jewels is a free puzzle game. In this strategic clicker game, you will be tasked with the fun job of seeking out and finding like jewels and then positioning them next to each other before merging them. You will be constantly merging all jewels and when you don't see the jewels onscreen that you would wish to merge, you will have the option to spend your time clicking on the mystery box on the side of the screen in order to open it and grab the mystery jewel to add to the spread in the play area. This is a timed game with a high score counter and if you want to make it to the top of the leaderboard you'll have to think fast and perhaps move even faster. Merge Jewels is a fun and addictive puzzle game where the speed at which you click is equal to the things which you might accomplish. Please be brave and click your way to victory as you merge disparate jewels towards victory in this fun and free puzzle clicker.",
+            "inst":"If you are on mobile please tap on top of the jewel in order to merge them. ",
+            "rating":5,
+            "scrs":[
+                "assets/images/GamesScreens/MergeJawels/screen1.png",
+                "assets/images/GamesScreens/MergeJawels/screen2.png",
+                "assets/images/GamesScreens/MergeJawels/screen3.png",
+                "assets/images/GamesScreens/MergeJawels/screen4.png",
+                "assets/images/GamesScreens/MergeJawels/screen5.png",
+                "assets/images/GamesScreens/MergeJawels/screen6.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/merge-jewels/index.html"},
+        {
+            "name":"Pushout",
+            "videourl":"assets/images/Games/pushout.mp4",
+            "imgurl":"assets/images/Games/pushout.jpg",
+            "des":"Pushout is a free instant game. You are in and you need to get out. Not just you, but all of your square friends as well. You need to get out and you need to get them out. Push them if you have to, it is for your own safety. This game is a puzzle, it is an adventure you find yourself compelled to unlock as you point, click, and unlock the fun. Every square is another chance to turn it all around. Each level in this game is more puzzling than the last. You will need to center yourself and summon all of the fortitudes you can in order to overcome the items which need to be pushed. There is no room for error in this game of pushes and pulls. The only way you can persevere is by making sure that you and all of your square friends get out. So, get pushing because these people ain't listening to anything you gotta say. Perhaps paranoia takes over as the walls close in, there is no way through but out.",
+            "inst":"On your mobile please use your finger to tap and slide , click, and drag your white square across the screen. ",
+            "rating":4,
+            "scrs":[
+                "assets/images/GamesScreens/Pushout/screen1.png",
+                "assets/images/GamesScreens/Pushout/screen2.png",
+                "assets/images/GamesScreens/Pushout/screen3.png",
+                "assets/images/GamesScreens/Pushout/screen4.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/pushout/index.html"},
+        {
+            "name":"Balloons",
+            "videourl":"assets/images/Games/balloons.mp4",
+            "imgurl":"assets/images/Games/balloons.jpg",
+            "des":"Balloons is a free mobile game. You may find yourself in a floating maze filled with ballons, you may find yourself as a razor sharp ebony saw blade, you may find yourself rotating in space as balloons fall all around. This is a common problem, it is an occurrence that happens all of the time. The only thing you can do is ask yourself how you got there and start flinging your bladed self around. Smash the balloons, splice through their weakened rubber skins. Your mission is to seek and destroy as many balloons as is humanly possible. The end is always near and it never goes away. Don't let the fading light behind the curtain go out on you before the end of the final act. Fling your blade through armies of floating balloons and cut them all down. Remember, they work for you now and you are an unkind master. Take out as many balloons in as few seconds as possible if you wish to upgrade the color, the shape, and the overall lethality of your blade. You can do it! You can take on and take down the living wrecks that have inhabited your maze world.",
+            "inst":"On your mobile device use your finger to point and twist , click, and drag. Your goal is to navigate your way through the maze in such a fashion that you are able to pop all of the balloons in as short a time as possible. ",
+            "rating":3,
+            "scrs":[
+                "assets/images/GamesScreens/Balloons/screen1.png",
+                "assets/images/GamesScreens/Balloons/screen2.png",
+                "assets/images/GamesScreens/Balloons/screen3.png",
+                "assets/images/GamesScreens/Balloons/screen4.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/balloons-castello/index.html"},
+        {
+            "name":"Unstack Balls",
+            "videourl":"assets/images/Games/unstackballs.mp4",
+            "imgurl":"assets/images/Games/unstackballs.jpg",
+            "des":"Unstack Balls is a free puzzle game. Balls can be stacked and as incongruous and unholy as that statement sounds there is but another statement that is even more confounding: balls can be unstacked. It might seem impossible, it might seem unreasonable but it is true and we are here to prove it to you with but a single play of this game. Stacking and unstacking balls is as much of an art as it is a game. It is a sacred tradition that has been handed down for generations from one mystic to another and now we are handing it off to you. No one can be told what Ball Stacking is, you must experience it for yourself. And that is why we have published this game so that you can unstack balls in a particular and precise order. For in this game there are limits. You can't simply bring the balls out and fling them all willy nilly, no friend, you must drag them to precise points plotted and placed on a gridded map. If you are able to do that and do it in the right order then you'll be fine.",
+            "inst":"On your desktop computer please use your mouse to point and click on the ball of your choice. Then drag that ball in order to begin unstacking the tower. Unstack all of the towers in the correct order if you want to finish the leve. ",
+            "rating":3,
+            "scrs":[
+                "assets/images/GamesScreens/UnstackBalls/screen1.png",
+                "assets/images/GamesScreens/UnstackBalls/screen2.png",
+                "assets/images/GamesScreens/UnstackBalls/screen3.png",
+                "assets/images/GamesScreens/UnstackBalls/screen4.png"
+            ],
+            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/unstack-balls/index.html"},
+        
+        
+        
+        {
+            "name":"Tomb Of The Mask Neon",
+            "videourl":"assets/images/Games/tombOfTheMaskNeon.mp4",
+            "imgurl":"assets/images/Games/tombOfTheMaskNeon.jpg",
+            "des":"Tomb of the Mask: Neon is an arcade game where you have to go through different maze levels with many traps and enemies. Collect all the dots and try not to touch the obstacles such as spikes, traps, and enemies to reach the secret Tomb Mask.",
+            "inst":"",
+            "rating":5,
+            "scrs":[
+                "assets/images/GamesScreens/TombOfTheMaskNeon/screen1.png",
+                "assets/images/GamesScreens/TombOfTheMaskNeon/screen2.png",
+                "assets/images/GamesScreens/TombOfTheMaskNeon/screen3.png",
+                "assets/images/GamesScreens/TombOfTheMaskNeon/screen4.png",
+                "assets/images/GamesScreens/TombOfTheMaskNeon/screen5.png"
+            ],
+            "url":"https://gamaverse.com/c/f/g/tomb-of-the-mask-neon/?gd_sdk_referrer_url=https://gamaverse.com/tomb-of-the-mask-neon-game/"},
+        
+        
+        {
+            "name":"Wheeler Truck Parking",
+            "videourl":"",
+            "imgurl":"assets/images/Games/WheelerTruckParking.jpg",
+            "des":"18 Wheeler Truck Parking is a top-down truck parking game with 10 levels to complete and some extra trucks to unlock.",
+            "inst":"",
+            "rating":3,
+            "scrs":[
+                "assets/images/GamesScreens/WheelerTruckParking/screen1.png",
+                "assets/images/GamesScreens/WheelerTruckParking/screen2.png",
+                "assets/images/GamesScreens/WheelerTruckParking/screen3.png",
+                "assets/images/GamesScreens/WheelerTruckParking/screen4.png"
+            ],
+            "url":"https://html5.gamedistribution.com/rvvASMiM/501659cc749544b98c4530f8ebbd1d63/?gd_sdk_referrer_url=https://gamaverse.com/18-wheeler-truck-parking-game/"},
+            {
+                "name":"SUM BLOCKS",
+                "imgurl":"assets/images/Games/sumblocks.png",
+                "des":"",
+                "inst":"",
+                "scrs":[
+                    "assets/images/Games/sumblocks.png"
+                ],
+                "rating":3,
+                "url":"https://www.mathplayground.com/sum_blocks/index.html"},
+    
+           
+                
+                
+            
+                
+              
+    
+    
+                {
+                 "name":"SUM STACKS",
+                "imgurl":"assets/images/Games/sumblocks.png",
+                "des":"",
+                "inst":"",
+                "scrs":[
+                    "assets/images/Games/sumblocks.png"
+                ],
+                "rating":4,
+                "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/sum-stacks/index.html"}, 
+    
+    
+                {
+                 "name":"STEP SPOTS",
+                "imgurl":"assets/images/Games/step-spots.jpg",
+                "des":"",
+                "inst":"",
+                "scrs":[
+                    "assets/images/Games/step-spots.jpg"
+                ],
+                "rating":5,
+                "url":"https://18940.cache.armorgames.com/files/games/step-spots-18940/index.html?key=y8&value=default"}, 
+    
+    
+                {
+                 "name":"TIC TAC TOE",
+                "imgurl":"assets/images/Games/tic-tac-toe.jpg",
+                "des":"",
+                "inst":"",
+                "scrs":[
+                    "assets/images/Games/tic-tac-toe.jpg"
+                ],
+                "rating":4,
+                "url":"https://html5.gamedistribution.com/rvvASMiM/128ff53707c94714a6ab67b24d77cdab/?timestamp=1661637692&countryCode=fr&siteid=88&channelid=1&siteLocale=fr&locale=fr&gd_sdk_referrer_url=https%3A%2F%2Fwww.jeux.fr%2Fjeu%2Ftic-tac-toe-paper&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy5qZXV4LmZyL2pldS90aWMtdGFjLXRvZS1wYXBlciIsInBhcmVudERvbWFpbiI6ImpldXguZnIiLCJ0b3BEb21haW4iOiJqZXV4LmZyIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNCJ9"}, 
+    
+                
+    
+                
+                {
+                 "name":"REVERSI",
+                "imgurl":"assets/images/Games/Reversi.jpg",
+                "des":"",
+                "inst":"",
+                "scrs":[
+                    "assets/images/Games/Reversi.jpg"
+                ],
+                "rating":4,
+                "url":"https://playpager.com/play-reversi/index.html"}
+    ]
+}

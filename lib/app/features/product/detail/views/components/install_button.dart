@@ -1,16 +1,24 @@
 part of product_detail;
 
-class _InstallButton extends StatelessWidget {
+class _InstallButton extends GetView<ProductDetailController> {
   const _InstallButton({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.symmetric(
-        horizontal: kDefaultPadding,
-        vertical: kDefaultPadding / 2,
+      padding: EdgeInsets.only(
+        left: kDefaultPadding,
+        right: kDefaultPadding,
+        top: kDefaultPadding / 2,
+        bottom: isBannerLoaded ? 90 : kDefaultPadding / 2,
       ),
-      child: ElevatedButton(onPressed: () {}, child: Text("Install")).large(),
+      child: ElevatedButton(
+              onPressed: () => controller.goToDetail(
+                    controller.product,
+                    heroTag: controller.getPopularGameTag(controller.product),
+                  ),
+              child: Text("Play"))
+          .large(),
     );
   }
 }

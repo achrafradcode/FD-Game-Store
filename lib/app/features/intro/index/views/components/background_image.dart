@@ -9,19 +9,11 @@ class _BackgroundImage extends StatelessWidget {
       alignment: Alignment.center,
       children: [
         Align(
-          alignment: Alignment.center,
-          child: SvgPicture.asset(
-            ImageVector.backgroundLiquid,
-            width: Get.width * .7,
-          ),
-        ),
-        Align(
-          alignment: Alignment.center,
-          child: Image.asset(
-            ImageRaster.phone3d,
-            width: Get.width * .8,
-          ),
-        ),
+            alignment: Alignment.center,
+            child: Image(
+                fit: BoxFit.fill,
+                width: context.width,
+                image: AssetImage(ImageVector.backgroundLiquid))),
       ],
     );
   }

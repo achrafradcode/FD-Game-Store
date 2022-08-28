@@ -1,8 +1,8 @@
 library routes;
 
-import 'package:game_store/app/features/dashboard/index/views/screens/dashboard_screen.dart';
-import 'package:game_store/app/features/intro/index/views/screens/intro_screen.dart';
-import 'package:game_store/app/features/product/detail/views/screens/product_detail_screen.dart';
+import 'package:cool_math_games/app/features/dashboard/index/views/screens/dashboard_screen.dart';
+import 'package:cool_math_games/app/features/intro/index/views/screens/intro_screen.dart';
+import 'package:cool_math_games/app/features/product/detail/views/screens/product_detail_screen.dart';
 import 'package:get/get.dart';
 
 part 'app_routes.dart';
@@ -24,6 +24,12 @@ class AppPages {
       name: _Paths.productDetail,
       page: () => ProductDetailScreen(),
       binding: ProductDetailBinding(),
+      transition: Transition.downToUp,
+    ),
+    GetPage(
+      name: _Paths.productGame,
+      page: () => GameView(),
+      binding: GameViewBinding(),
       transition: Transition.downToUp,
     ),
   ];

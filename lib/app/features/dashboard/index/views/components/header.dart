@@ -13,11 +13,11 @@ class _Header extends GetView<DashboardController> {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
-              _title(),
+              // _title(),
               _imageProfile(),
             ],
           ),
-          _subtitle(),
+          // _subtitle(),
         ],
       ),
     );

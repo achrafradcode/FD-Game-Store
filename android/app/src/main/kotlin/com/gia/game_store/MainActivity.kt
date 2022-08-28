@@ -1,4 +1,4 @@
-package com.gia.game_store
+package com.ouaz.coolmath.games
 
 import io.flutter.embedding.android.FlutterActivity
 

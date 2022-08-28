@@ -29,7 +29,9 @@ class Product {
   final String name;
   final String category;
   final String description;
-  final double rating;
+  final String instruction;
+  final String url;
+  final int rating;
   final int totalDownload;
   final int totalReview;
 
@@ -41,6 +43,8 @@ class Product {
     required this.name,
     required this.category,
     required this.description,
+    this.instruction = "",
+    required this.url,
     required this.rating,
     required this.totalDownload,
     required this.totalReview,
@@ -62,7 +66,9 @@ final _oriAndTheBlindForest = Product(
     category: "adventure",
     description:
         "The forest of Nibel is dying. After a powerful storm sets a series of devastating events in motion, an unlikely hero must journey to find his courage and confront a dark nemesis to save his home. “Ori and the Blind Forest” tells the tale of a young orphan destined for heroics, through a visually stunning action-platformer crafted by Moon Studios for PC. Featuring hand-painted artwork, meticulously animated character performance, and a fully orchestrated score, “Ori and the Blind Forest” explores a deeply emotional story about love and sacrifice, and the hope that exists in us all. ",
-    rating: 4.7,
+    url:
+        "https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/weave/index.html",
+    rating: 4,
     totalDownload: 300,
     totalReview: 15);
 
@@ -80,6 +86,7 @@ final _raymanLegends = Product(
     category: "action",
     description:
         "Michel Ancel, the celebrated creator of Rayman®, Beyond Good & Evil®, and the Raving Rabbids®, returns to unleash his innovative creativity on this new entry into the Rayman® franchise.\n When Rayman, Globox, and the Teensies discover a mysterious tent filled with captivating paintings, they are suddenly transported to a series of mythical new worlds! \n Join them as they run, jump, and slap their way through each world to get home, save the day, and discover the secrets of the legendary paintings!",
-    rating: 3.7,
+    url: "",
+    rating: 3,
     totalDownload: 500,
     totalReview: 300);

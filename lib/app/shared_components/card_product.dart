@@ -1,14 +1,19 @@
 import 'package:flutter/material.dart';
-import 'package:game_store/app/constans/app_constants.dart';
-import 'package:game_store/app/shared_components/rating_icon.dart';
+import 'package:cool_math_games/app/constans/app_constants.dart';
+import 'package:cool_math_games/app/shared_components/rating_icon.dart';
 import 'package:get/get.dart';
-import 'package:game_store/app/utils/ui/ui_utils.dart';
+import 'package:cool_math_games/app/utils/ui/ui_utils.dart';
 
 class CardProduct extends StatelessWidget {
-  const CardProduct({required this.data, required this.onPressed, Key? key})
+  const CardProduct(
+      {required this.data,
+      required this.onPressed,
+      required this.onPlay,
+      Key? key})
       : super(key: key);
   final CardProductData data;
   final Function() onPressed;
+  final Function() onPlay;
   final _borderRadius = 15.0;
   @override
   Widget build(BuildContext context) {
@@ -80,8 +85,8 @@ class CardProduct extends StatelessWidget {
           size: 15,
         ),
         ElevatedButton(
-          onPressed: () {},
-          child: Text("Install"),
+          onPressed: onPlay,
+          child: Text("Play"),
         ).small()
       ],
     );
@@ -92,7 +97,7 @@ class CardProductData {
   final ImageProvider image;
   final String name;
   final String category;
-  final double rating;
+  final int rating;
 
   CardProductData({
     required this.image,

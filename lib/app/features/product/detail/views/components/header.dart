@@ -19,8 +19,8 @@ class _Header extends GetView<ProductDetailController> {
                 _nameText(controller.product.name),
                 SizedBox(height: 5),
                 _categoryText(controller.product.category),
-                SizedBox(height: 10),
-                _ratingAndTotalDownload(),
+                // SizedBox(height: 10),
+                // _ratingAndTotalDownload(),
               ],
             ),
           )

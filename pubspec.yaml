@@ -1,5 +1,5 @@
-name: game_store
-description: A new Flutter project.
+name: cool_math_games
+description: Cool math games.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -29,6 +29,11 @@ dependencies:
   get: ^4.1.4
   lottie: ^1.0.1
   readmore: ^2.1.0
+  webviewx: ^0.2.1
+  path_provider: ^2.0.11
+  applovin_max: ^2.0.0
+  
+  
 
 dev_dependencies:
   flutter_test:
@@ -38,7 +43,7 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/images/raster/logo-gia-developer.png"
+  image_path: "assets/images/raster/Icon.png"
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 # The following section is specific to Flutter.
@@ -50,6 +55,32 @@ flutter:
   uses-material-design: true
   # To add assets to your application, add an assets section, like this:
   assets:
+    - assets/gameLiens.json
+    - assets/images/Games/.
+    - assets/images/GamesScreens/.
+    - assets/images/GamesScreens/Weave/.
+    - assets/images/GamesScreens/CrossThatRoad/.
+    - assets/images/GamesScreens/TowerBoxer/.
+    - assets/images/GamesScreens/FactoryRush/.
+    - assets/images/GamesScreens/ParkingTight/.
+    - assets/images/GamesScreens/SandBall/.
+    - assets/images/GamesScreens/SpaceKnife/.
+    - assets/images/GamesScreens/MrSlice/.
+    - assets/images/GamesScreens/DestroyPixel/.
+    - assets/images/GamesScreens/TheEndlessTap/.
+    - assets/images/GamesScreens/TrafficController/.
+    - assets/images/GamesScreens/CubeKiller/.
+    - assets/images/GamesScreens/SnowRally/.
+    - assets/images/GamesScreens/TwistMaze/.
+    - assets/images/GamesScreens/Rotate/.
+    - assets/images/GamesScreens/FlipCube/.
+    - assets/images/GamesScreens/FruitManiac/.
+    - assets/images/GamesScreens/MergeJawels/.
+    - assets/images/GamesScreens/Pushout/.
+    - assets/images/GamesScreens/Balloons/.
+    - assets/images/GamesScreens/UnstackBalls/.
+    - assets/images/GamesScreens/TombOfTheMaskNeon/.
+    - assets/images/GamesScreens/WheelerTruckParking/.
     - assets/images/raster/.
     - assets/images/vector/.
     - assets/images/animation/.

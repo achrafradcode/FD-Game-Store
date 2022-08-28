@@ -8,6 +8,9 @@ class _SearchTextField extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: kDefaultPadding),
       child: TextField(
+        onChanged: (value) {
+          onSearch(value);
+        },
         decoration: InputDecoration(
           prefixIcon: Icon(
             Icons.search,
