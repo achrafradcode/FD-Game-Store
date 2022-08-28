@@ -1,4 +1,4 @@
-package com.ouaz.coolmath.cool_math_games
+package com.ouaz.coolmath.games
 
 import io.flutter.embedding.android.FlutterActivity
 
