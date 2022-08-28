@@ -94,7 +94,7 @@ class GameView extends GetView<GameViewController> {
     String embededUrl = this.controller.product.url;
     String cent =
         '<script>var frame = document.getElementById("html5game");console.log(frame);</script> <style>html{border: none;height: 100%;width: 100%;}body{border: none;height: 100%;width: 100%;margin: 0px;}</style><iframe id="html5game" src="$embededUrl" class="square no-select" style="width:100%;height:100%;" scrolling="no" marginwidth="0" vspace="0" frameborder="0" hspace="0" marginheight="0" sandbox="allow-downloads allow-forms allow-modals allow-orientation-lock allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-presentation allow-same-origin allow-scripts"></iframe>';
-
+    cent = embededUrl;
     // onDispose = webViewXController.dispose;
 
     // Timer(Duration(milliseconds: 10), () {
@@ -113,16 +113,18 @@ class GameView extends GetView<GameViewController> {
 
     return Scaffold(
         key: _key,
-        extendBody: true,
-        extendBodyBehindAppBar: true,
+        appBar: AppBar(
+          elevation: 0,
+          toolbarHeight: 35,
+        ),
         body: Stack(children: [
           WebViewX(
-            initialSourceType: SourceType.html,
+            initialSourceType: SourceType.url,
             width: context.width,
             height: context.height,
             onWebViewCreated: (controller) {
               webViewXController = controller;
-              webViewXController.loadContent(cent, SourceType.html);
+              webViewXController.loadContent(cent, SourceType.url);
               // webViewXController.callJsMethod(name, params)
 
               webViewXControllerIsInitialized = true;

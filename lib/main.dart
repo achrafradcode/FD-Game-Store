@@ -36,7 +36,6 @@ class MyApp extends StatelessWidget {
     GameAnalytics.setEnabledInfoLog(true);
     GameAnalytics.setEnabledVerboseLog(true);
 
-
     GameAnalytics.configureBuild("0.1.0");
     GameAnalytics.configureAutoDetectAppVersion(true);
     GameAnalytics.initialize("d4819171ecffe8fe0d3237bacb907a5f",

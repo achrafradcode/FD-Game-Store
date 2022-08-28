@@ -64,7 +64,7 @@ void getGamesList(Function(dynamic GameList) callback) {
 }
 
 final String _interstitial_ad_unit_id =
-    Platform.isAndroid ? "c9c5427bbbe99b02" : "c9c5427bbbe99b02";
+    Platform.isAndroid ? "c9c5427bbbe99b02" : "0ec0b6df498be207";
 
 var _interstitialRetryAttempt = 0;
 
@@ -127,7 +127,7 @@ Future<void> showInterstitial() async {
 }
 
 final String banner_ad_unit_id =
-    Platform.isAndroid ? "ae47d56064f332cb" : "ae47d56064f332cb";
+    Platform.isAndroid ? "ae47d56064f332cb" : "edaa95901b17188c";
 
 void initializeBannerAds() {
   // Banners are automatically sized to 320x50 on phones and 728x90 on tablets
