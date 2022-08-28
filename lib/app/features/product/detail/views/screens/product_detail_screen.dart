@@ -75,7 +75,7 @@ class ProductDetailScreen extends StatelessWidget {
                 ],
               ),
             ),
-            _BackButton(),
+            BackButton(),
           ],
         ),
       ),

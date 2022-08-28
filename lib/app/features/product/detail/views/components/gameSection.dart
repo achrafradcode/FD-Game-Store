@@ -41,8 +41,13 @@ class GameSection extends GetView<ProductDetailController> {
       );
     });
 
-    return Expanded(
-      child: widget,
+    return Stack(
+      children:[
+        Expanded(
+        child: widget,
+      ),
+        BackButton(),
+      ]
     );
   }
 }

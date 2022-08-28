@@ -1,7 +1,7 @@
 part of product_detail;
 
-class _BackButton extends StatelessWidget {
-  const _BackButton({Key? key}) : super(key: key);
+class BackButton extends StatelessWidget {
+  const BackButton({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

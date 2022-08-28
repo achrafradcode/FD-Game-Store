@@ -1,0 +1,51 @@
+PODS:
+  - applovin_max (2.0.0):
+    - AppLovinSDK (= 11.4.3)
+    - Flutter
+  - AppLovinSDK (11.4.3)
+  - Flutter (1.0.0)
+  - GA-SDK-IOS (4.6.11)
+  - gameanalytics_sdk (1.2.7):
+    - Flutter
+    - GA-SDK-IOS (= 4.6.11)
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - applovin_max (from `.symlinks/plugins/applovin_max/ios`)
+  - Flutter (from `Flutter`)
+  - gameanalytics_sdk (from `.symlinks/plugins/gameanalytics_sdk/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AppLovinSDK
+    - GA-SDK-IOS
+
+EXTERNAL SOURCES:
+  applovin_max:
+    :path: ".symlinks/plugins/applovin_max/ios"
+  Flutter:
+    :path: Flutter
+  gameanalytics_sdk:
+    :path: ".symlinks/plugins/gameanalytics_sdk/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/ios"
+
+SPEC CHECKSUMS:
+  applovin_max: d4a727b7b37157d9213a8e93ed0e8c32fdf7063b
+  AppLovinSDK: 221dfbdff620be0ff227ed5b018b97b1f3d15713
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  GA-SDK-IOS: 800a394247b33bb3b0a70402caf473f24f657be0
+  gameanalytics_sdk: b74e6bf7f4efff88cec1528434aa16d3e95ab2ca
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+  webview_flutter_wkwebview: b7e70ef1ddded7e69c796c7390ee74180182971f
+
+PODFILE CHECKSUM: bc6a8584853166ebebfaf0179451fdad125ecdc7
+
+COCOAPODS: 1.11.3
