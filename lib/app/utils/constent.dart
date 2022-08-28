@@ -4,6 +4,7 @@ import 'dart:math';
 
 import 'package:applovin_max/applovin_max.dart';
 import 'package:flutter/material.dart';
+import 'package:gameanalytics_sdk/gameanalytics.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:flutter/services.dart' as rootBundle;
 
@@ -72,6 +73,12 @@ void initializeInterstitialAds() {
     onAdLoadedCallback: (ad) {
       // Interstitial ad is ready to be shown. AppLovinMAX.isInterstitialReady(_interstitial_ad_unit_id) will now return 'true'
       print('Interstitial ad loaded from ' + ad.networkName);
+      GameAnalytics.addAdEvent({
+        "adAction": GAAdAction.Loaded,
+        "adType": GAAdType.Interstitial,
+        "adSdkName": "apploving",
+        "adPlacement": ""
+      });
 
       // Reset retry attempt
       _interstitialRetryAttempt = 0;
@@ -110,6 +117,12 @@ Future<void> showInterstitial() async {
       (await AppLovinMAX.isInterstitialReady(_interstitial_ad_unit_id))!;
   if (isReady) {
     AppLovinMAX.showInterstitial(_interstitial_ad_unit_id);
+    GameAnalytics.addAdEvent({
+      "adAction": GAAdAction.Show,
+      "adType": GAAdType.Interstitial,
+      "adSdkName": "apploving",
+      "adPlacement": ""
+    });
   }
 }
 
@@ -121,6 +134,12 @@ void initializeBannerAds() {
   AppLovinMAX.setBannerListener(AdViewAdListener(
     onAdLoadedCallback: (ad) {
       isBannerLoaded = true;
+      GameAnalytics.addAdEvent({
+        "adAction": GAAdAction.Loaded,
+        "adType": GAAdType.Banner,
+        "adSdkName": "apploving",
+        "adPlacement": ""
+      });
     },
     onAdLoadFailedCallback: (adUnitId, error) {},
     onAdClickedCallback: (ad) {},
@@ -134,6 +153,12 @@ void initializeBannerAds() {
 void showBanner() {
   AppLovinMAX.showBanner(banner_ad_unit_id);
   print("Show Banner");
+  GameAnalytics.addAdEvent({
+    "adAction": GAAdAction.Show,
+    "adType": GAAdType.Banner,
+    "adSdkName": "apploving",
+    "adPlacement": ""
+  });
 }
 
 void hideBanner() {

@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:cool_math_games/app/config/routes/app_pages.dart';
 import 'package:cool_math_games/app/config/themes/app_theme.dart';
+import 'package:gameanalytics_sdk/gameanalytics.dart';
 import 'package:get/get.dart';
 import 'package:applovin_max/applovin_max.dart';
 
@@ -32,6 +33,14 @@ class MyApp extends StatelessWidget {
     Timer(Duration(seconds: 30), () {
       isshowInterstitial = false;
     });
+    GameAnalytics.setEnabledInfoLog(true);
+    GameAnalytics.setEnabledVerboseLog(true);
+
+
+    GameAnalytics.configureBuild("0.1.0");
+    GameAnalytics.configureAutoDetectAppVersion(true);
+    GameAnalytics.initialize("d4819171ecffe8fe0d3237bacb907a5f",
+        "a3a361f7488a1f54b504770e2837d98baad852f6");
     return GetMaterialApp(
       title: 'Game Store',
       debugShowCheckedModeBanner: false,
