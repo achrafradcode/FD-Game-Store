@@ -14,7 +14,7 @@ Map? sdkConfiguration;
 void main() {
   runApp(MyApp());
 }
-
+bool isSDKInitiated = false;
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
@@ -26,6 +26,7 @@ class MyApp extends StatelessWidget {
         initAds().then((value) {
           initializeBannerAds();
           initializeInterstitialAds();
+          isSDKInitiated = true;
           print("Init SDK");
         });
       });

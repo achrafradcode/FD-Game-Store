@@ -40,8 +40,11 @@ class DashboardScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Timer(Duration(seconds: 1), () {
-      initializeBannerAds();
-      showBanner();
+      i(isSDKInitiated){
+        initializeBannerAds();
+        showBanner();
+      }
+
     });
     return Scaffold(
       extendBodyBehindAppBar: true,

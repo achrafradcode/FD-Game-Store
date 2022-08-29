@@ -306,22 +306,7 @@
         
         
         
-        {
-            "name":"Tomb Of The Mask Neon",
-            "videourl":"assets/images/Games/tombOfTheMaskNeon.mp4",
-            "imgurl":"assets/images/Games/tombOfTheMaskNeon.jpg",
-            "des":"Tomb of the Mask: Neon is an arcade game where you have to go through different maze levels with many traps and enemies. Collect all the dots and try not to touch the obstacles such as spikes, traps, and enemies to reach the secret Tomb Mask.",
-            "inst":"",
-            "rating":5,
-            "scrs":[
-                "assets/images/GamesScreens/TombOfTheMaskNeon/screen1.png",
-                "assets/images/GamesScreens/TombOfTheMaskNeon/screen2.png",
-                "assets/images/GamesScreens/TombOfTheMaskNeon/screen3.png",
-                "assets/images/GamesScreens/TombOfTheMaskNeon/screen4.png",
-                "assets/images/GamesScreens/TombOfTheMaskNeon/screen5.png"
-            ],
-            "url":"https://gamaverse.com/c/f/g/tomb-of-the-mask-neon/?gd_sdk_referrer_url=https://gamaverse.com/tomb-of-the-mask-neon-game/"},
-        
+
         
         
             {

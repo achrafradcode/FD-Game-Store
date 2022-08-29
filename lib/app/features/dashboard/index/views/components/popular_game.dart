@@ -53,7 +53,7 @@ class _contentPopularGameState extends State<contentPopularGame> {
 
   int getListCount() {
     if (isInitiated) {
-      return 5;
+      return 3;
     }
     return 0;
   }
@@ -65,7 +65,7 @@ class _contentPopularGameState extends State<contentPopularGame> {
       );
     }
     var games = (GamesList['games'] as List<dynamic>);
-    var gameList = games.getRange(games.length - 5, games.length).toList();
+    var gameList = games.getRange(games.length - 3, games.length).toList();
     gameList.shuffle();
     return SizedBox(
       height: CardImage.size.height,

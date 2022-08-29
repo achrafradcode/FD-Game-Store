@@ -90,7 +90,7 @@ void initializeInterstitialAds() {
 
       int retryDelay = pow(2, min(6, _interstitialRetryAttempt)).toInt();
 
-      print('Interstitial ad failed to load with code ' +
+      print('Apploving Interstitial ad failed to load with code ' +
           error.code.toString() +
           ' - retrying in ' +
           retryDelay.toString() +
@@ -105,6 +105,7 @@ void initializeInterstitialAds() {
     onAdClickedCallback: (ad) {},
     onAdHiddenCallback: (ad) {},
   ));
+  AppLovinMAX.loadInterstitial(_interstitial_ad_unit_id);
 }
 
 bool isshowInterstitial = true;
@@ -112,11 +113,13 @@ bool isBannerLoaded = false;
 
 Future<void> showInterstitial() async {
   // Load the first interstitial
-  AppLovinMAX.loadInterstitial(_interstitial_ad_unit_id);
+
   bool isReady =
       (await AppLovinMAX.isInterstitialReady(_interstitial_ad_unit_id))!;
+
   if (isReady) {
     AppLovinMAX.showInterstitial(_interstitial_ad_unit_id);
+    print("Inter Showing Apploving");
     GameAnalytics.addAdEvent({
       "adAction": GAAdAction.Show,
       "adType": GAAdType.Interstitial,
@@ -147,12 +150,12 @@ void initializeBannerAds() {
     onAdCollapsedCallback: (ad) {},
   ));
   AppLovinMAX.createBanner(banner_ad_unit_id, AdViewPosition.bottomCenter);
-  print("Init Banner");
+  print("Init Banner Apploving");
 }
 
 void showBanner() {
   AppLovinMAX.showBanner(banner_ad_unit_id);
-  print("Show Banner");
+  print("Show Banner Apploving");
   GameAnalytics.addAdEvent({
     "adAction": GAAdAction.Show,
     "adType": GAAdType.Banner,
