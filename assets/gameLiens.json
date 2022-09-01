@@ -45,19 +45,7 @@
                 "assets/images/GamesScreens/TowerBoxer/screen4.png"
             ],
             "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/tower-boxer/index.html"},
-        {
-            "name":"Factory Rush",
-            "videourl":"assets/images/Games/FactoryRush.mp4",
-            "imgurl":"assets/images/Games/FactoryRush.jpg",
-            "des":"Factory Rush is a free clicker game. This is a classic game of pointing, clicking, and dragging the appropriate boxes to the appropriate shapes falling off of the conveyor belts. It starts off simple enough but then the rush kicks in and when the rush kicks in it really kicks in. You'll be forced to sort and organize a variety of different gears into their matching boxes and then ship them off. Your score, your reputation, your very life itself hinges and hangs entirely on your ability to put things in the appropriate boxes and get those boxes to slide down the conveyor belt. As the game goes on you'll be organizing and sorting more than one box at a time, anywhere up to three or even four boxes sorting up to five different shapes with everything changing all of the time. Whether its picture of the shape on the box, the lane the box is in, or the speed of the parts as they roll out, you can be assured that the only constant in this game is changing, and speed, and the fact that you work in a factory because the screen is that of a factory and it never changes.",
-            "inst":"On your mobile device please use your finger to point, tap, and drag the boxes or your mouse to point, click, and drag. ",
-            "rating":2,
-            "scrs":[
-                "assets/images/GamesScreens/FactoryRush/screen1.png",
-                "assets/images/GamesScreens/FactoryRush/screen2.png",
-                "assets/images/GamesScreens/FactoryRush/screen3.png"
-            ],
-            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/factory-rush/index.html"},
+        
         
         {
             "name":"Parking Tight",
@@ -129,21 +117,7 @@
                 "assets/images/GamesScreens/DestroyPixel/screen3.png"
             ],
             "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/destroy-pixel/index.html"},
-        {
-            "name":"The Endless Tap",
-            "videourl":"assets/images/Games/Theendlesstape.mp4",
-            "imgurl":"assets/images/Games/Theendlesstap.jpg",
-            "des":"The Endless Tap is a free clicker game. You've squeaked your sneaks across basketball courts all over the world. You have sunk 3-pointers with your eyes closed and made half-court baskets that electrified the world. But that was then, this is now. You've seen it all. You've done it all. And now, the world of competitive basketball bores you, you thirst for greater challenges in a new arena. Enter The Endless Tap. A game that takes everything you love about basketball and puts it into the top-down world of Endless clickers and tappers. This is the game that will finally let you challenge yourself by dunking over and over again as many times as you can. Hey, do you think ahead? Do you know how to navigate the labyrinthian world of competitive basketball tappers? This is your chance to be the queen's gambit of the basketball tapper world. To show your haters that you are like Micheal Jordan and will be successful in not just one sport but multiple sports. The world is your onion, gamer-friend, and you have everything it takes to bring it to its knees by succeeding at tapping your way through basketball stuff.",
-            "inst":"Use your finger to tap or mouse to click in order to keep the ball up and get it in the net. ",
-            "rating":5,
-            "scrs":[
-                "assets/images/GamesScreens/TheEndlessTap/screen1.png",
-                "assets/images/GamesScreens/TheEndlessTap/screen2.png",
-                "assets/images/GamesScreens/TheEndlessTap/screen3.png",
-                "assets/images/GamesScreens/TheEndlessTap/screen4.png",
-                "assets/images/GamesScreens/TheEndlessTap/screen5.png"
-            ],
-            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/the-endless-tap/index.html"},
+        
         {
             "name":"Traffic Controller",
             "videourl":"assets/images/Games/trafficcontrole.mp4",
@@ -159,65 +133,13 @@
             ],
             "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/traffic-control/index.html"},
         
-        {
-            "name":"Cube Killer",
-            "videourl":"assets/images/Games/Cubekiller.mp4",
-            "imgurl":"assets/images/Games/Cubekiller.jpg",
-            "des":"Cube Killer is a free mobile game.",
-            "inst":"",
-            "rating":4,
-            "scrs":[
-                "assets/images/GamesScreens/CubeKiller/screen1.png",
-                "assets/images/GamesScreens/CubeKiller/screen2.png",
-                "assets/images/GamesScreens/CubeKiller/screen3.png",
-                "assets/images/GamesScreens/CubeKiller/screen4.png"
-            ],
-            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/cube-killer/index.html"},
-        {
-            "name":"Snow Rally",
-            "videourl":"assets/images/Games/Snowrally .mp4",
-            "imgurl":"assets/images/Games/Snowrally.jpg",
-            "des":"Snow Rally is a free racing game. Move fast and move often. In Snow Rally, you're a 4x4 jeep trecking their way across the northwest. Hop in and slam on the accelerator as you navigate the hills and valleys of this sprawling racing game. Collect coins in order to buy upgrades for your offroader so you can fully optimize your ability to trek and explore. Tame the wild with the sheer will power of your steely nerved determination as you jump, swerve, and flip your way to victory. Earn extra points by flipping, spinning and jamming your way into the future. You may be stuck behind the wheel of a 4x4 but that doesn't mean you can't explore the world.",
-            "inst":"",
-            "rating":4,
-            "scrs":[
-                "assets/images/GamesScreens/SnowRally/screen1.png",
-                "assets/images/GamesScreens/SnowRally/screen2.png",
-                "assets/images/GamesScreens/SnowRally/screen3.png",
-                "assets/images/GamesScreens/SnowRally/screen4.png",
-                "assets/images/GamesScreens/SnowRally/screen5.png"
-            ],
-            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/snow-rally/index.html"},
+        
+        
        
         
-        {
-            "name":"Twist Maze",
-            "videourl":"assets/images/Games/twistmaze.mp4",
-            "imgurl":"assets/images/Games/twistmaze.jpg",
-            "des":"Twist Maze is a free mobile game.",
-            "inst":"",
-            "rating":2,
-            "scrs":[
-                "assets/images/GamesScreens/TwistMaze/screen1.png",
-                "assets/images/GamesScreens/TwistMaze/screen2.png",
-                "assets/images/GamesScreens/TwistMaze/screen3.png"
-            ],
-            "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/twist-maze/index.html"},
+        
        
-        {
-            "name":"Rotate",
-            "videourl":"assets/images/Games/rotate.mp4",
-            "imgurl":"assets/images/Games/rotate.jpg",
-            "des":"Rotate is a free idle game. This is the story of a square who spun his way from one side of a spike-covered circle to the other and lived to tell the story. Rotate is a unique take on idle games. In Rotate you'll be in charge of the fate of a single square. The square is trapped within circle and that circle is filled with spikes. AAll you have to do is navigate and guide the square within the circle so that it intersects with floating green squares. These floating green squares are the real prize for this is how you score. You can stay alive for as long as you want within the circle, but it's all about the squares if you wanna win. This is a game of concentration and precision. You must know when to spin the circle so you can rebound the square way from the spikes and into the victory cubes. It's an absolute blast once you get the hang of it but also a terribly difficult game to master. Simple rules, elegant interface, and minimal graphics. The kind of thing you can learn in a minute and play for a lifetime. This is the beauty of rotate, this is the tragedy of rotate. ",
-            "inst":"Press down anywhere outside the circle in order to activate the cyclotron. Once the circle is rotating you'll bounce and deflect the square within to avoid spikes and collect cubes. ",
-            "rating":4,
-            "scrs":[
-                "assets/images/GamesScreens/Rotate/screen1.png",
-                "assets/images/GamesScreens/Rotate/screen2.png",
-                "assets/images/GamesScreens/Rotate/screen3.png",
-                "assets/images/GamesScreens/Rotate/screen4.png"
-            ],
-            "url":"https://cdn2.addictinggames.com/cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/rotate/index.html"},
+        
         {
             "name":"Flip Cube",
             "videourl":"assets/images/Games/flipCube.mp4",
@@ -337,7 +259,7 @@
                     "assets/images/Games/sumblocks.png"
                 ],
                 "rating":4,
-                "url":"https://cdn2.addictinggames.com/addictinggames-content/ag-assets/content-items/html5-games/sum-stacks/index.html"}, 
+                "url":" "}, 
     
     
                 
